@@ -1,0 +1,12 @@
+streamlit==1.28.2
+torch>=2.2.0
+transformers>=4.35.2
+accelerate>=0.25.0
+peewee==3.17.0
+sentencepiece>=0.1.99
+protobuf>=4.25.1
+textblob>=0.17.1
+emoji>=2.8.0
+groq>=0.4.0
+langchain>=0.0.267
+python-dotenv>=1.0.0
